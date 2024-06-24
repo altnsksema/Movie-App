@@ -1,0 +1,20 @@
+.search-box .input-group {
+	position: relative;
+}
+
+.search-box .form-control {
+	padding-right: 2.5rem;
+}
+
+.search-box .input-group-append {
+	position: absolute;
+	right: 0.5rem;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.search-box .input-group-text {
+	background: transparent;
+	border: none;
+	padding: 0;
+}
